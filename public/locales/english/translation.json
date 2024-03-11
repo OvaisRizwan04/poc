@@ -1,0 +1,13 @@
+{
+    "placeholder-text": "Place",
+    "button-text": "Get Weather",
+    "location-text": "Location",
+    "temperature-text": "Temperature",
+    "humidity-text": "Humidity",
+    "sunrise-text": "Sunrise",
+    "sunset-text": "Sunset",
+    "condition-text": "Condition",
+    "clouds-text": "Clouds",
+    "error-text": "Please choose a place to look at the weather conditions"
+  }
+  

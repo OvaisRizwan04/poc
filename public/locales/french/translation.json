@@ -1,0 +1,13 @@
+{
+    "placeholder-text": "Lieu",
+    "button-text": "Obtenir la météo",
+    "location-text": "Emplacement",
+    "temperature-text": "Température",
+    "humidity-text": "Humidité",
+    "sunrise-text": "Lever du soleil",
+    "sunset-text": "Coucher de soleil",
+    "condition-text": "Condition",
+    "clouds-text": "Des nuages",
+    "error-text": "Veuillez choisir un endroit pour consulter les conditions météorologiques"
+  }
+  
